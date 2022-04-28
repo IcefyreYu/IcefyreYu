@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Icefyre's github stats](https://github-readme-stats.vercel.app/api?username=IceftreYu)](https://github.com/IcefyreYu/github-readme-stats)
 
 
 - 👋 Hi, I’m @IcefyreYu
